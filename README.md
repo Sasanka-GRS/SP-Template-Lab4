@@ -12,11 +12,12 @@
 - Final directory structure should look like: <br>
 
 
-|_Inside cloned folder
-    |_ Result 
-    |_ Code
-    |_ Report.pdf
-    |_ README.md
+    |_Inside cloned folder
+
+        |_ Result 
+        |_ Code
+        |_ Report.pdf
+        |_ README.md
 
 
 - <strong> Do not </strong> make extra folders apart from the above folders.
