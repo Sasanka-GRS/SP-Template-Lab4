@@ -10,15 +10,13 @@
 - A well-written report containing your observations and answers to the theory questions should be submitted.
 - Make sure to name each script file as q<Question_Number>_<Sub_Part>.m, example q2_c.m
 - Final directory structure should look like: <br>
-
-
-    |_Inside cloned folder
-
-        |_ Result 
-        |_ Code
-        |_ Report.pdf
-        |_ README.md
-
+```
+|_Inside cloned folder
+    |_ Result 
+    |_ Code
+    |_ Report.pdf
+    |_ README.md
+```
 
 - <strong> Do not </strong> make extra folders apart from the above folders.
 - Save plots as <strong> .png/.jpg/.jpeg </strong> format only.
