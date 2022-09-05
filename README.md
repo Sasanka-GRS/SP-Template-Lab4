@@ -15,11 +15,8 @@
 |_Inside cloned folder
 
     |_ Result 
-    
     |_ Code
-    
     |_ Report.pdf
-    
     |_ README.md
 
 
