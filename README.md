@@ -2,9 +2,9 @@
 
 ## Instructions
 
-- Lab handout is <strong> Lab3.pdf </strong> in this repository.
+- Lab handout is <strong> Lab4.pdf </strong> in this repository.
 
-- The mat files mentioned in the pdf are attached here as q1.mat, q2_1.mat and q2_2.mat
+
 
 - Code has to be done in MATLAB.
 
@@ -44,4 +44,4 @@
 
 - Commit the work <strong> after each question </strong>.
 
-- Final deadline is <strong> 11:55 pm 31 August 2022 </strong>.
+- Final deadline is <strong> 11:55 pm 07 August 2022 </strong>.
